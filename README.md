@@ -35,14 +35,14 @@ Here are examples of cross-subject visual reconstruction
 
 # Acknowledgement
 Our codebase builds on these repositories. We would like to thank the authors.  
-https://github.com/tknapen/nsd_access  
-https://github.com/CompVis/stable-diffusion  
-https://github.com/Stability-AI/stablediffusion  
-https://github.com/ozcelikfu/brain-diffuser  
-https://github.com/microsoft/GenerativeImage2Text  
-https://github.com/enomodnara/BrainCaptioning  
-https://github.com/isl-org/DPT  
-https://github.com/yu-takagi/StableDiffusionReconstruction  
+> https://github.com/tknapen/nsd_access  
+> https://github.com/CompVis/stable-diffusion  
+> https://github.com/Stability-AI/stablediffusion  
+> https://github.com/ozcelikfu/brain-diffuser  
+> https://github.com/microsoft/GenerativeImage2Text  
+> https://github.com/enomodnara/BrainCaptioning  
+> https://github.com/isl-org/DPT  
+> https://github.com/yu-takagi/StableDiffusionReconstruction  
 
 
 
